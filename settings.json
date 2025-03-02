@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "python_autotests-main"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
